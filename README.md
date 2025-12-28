@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir Hosseini</h1>
-<h3 align="center">A passionate frontend/bacckend developer from Iran</h3>
+<h3 align="center">A passionate frontend/backend developer from Iran</h3>
 
 - 💬 Ask me about **react, next, node js**
 
